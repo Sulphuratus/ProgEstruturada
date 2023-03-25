@@ -4,7 +4,6 @@ int main(){
 
     int classe, territorio, arma; 
 
-
 printf("\nDigite o numero correspondente a classe: ");
 printf("\n1 - Guerreiro");
 printf("\n2 - Mago");
