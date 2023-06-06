@@ -1,0 +1,5 @@
+
+-80 --> Negativo par
+27 --> Positivo impar!
+-9 --> Negativo impar!
+54 --> Positivo par
