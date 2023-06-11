@@ -43,7 +43,7 @@ double calcula_Euler(int num)
 
 int main()
 {
-    int n = 10;
+    int n = 20;
 
     printf("\n\nNumero de Euler para %d elementos = %f\n\n", n, calcula_Euler(n));
 
